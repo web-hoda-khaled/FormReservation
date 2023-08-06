@@ -1,0 +1,17 @@
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+body{
+ background-image: linear-gradient(#f5f9f9, #87e3da) !important;
+ background-size: cover;
+ background-repeat:no-repeat ;
+ padding-bottom: 20px;
+}
+
+::selection{
+ background-color: #FFFFFF ;
+ color: #87e3da;
+}
+
